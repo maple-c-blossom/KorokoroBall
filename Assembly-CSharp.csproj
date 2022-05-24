@@ -59,6 +59,8 @@
     <Compile Include="Assets\Scenes\VSCheck.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\Goal.cs" />
+    <Compile Include="Assets\coinControle.cs" />
+    <Compile Include="Assets\Coin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
